@@ -6,7 +6,7 @@
 # Sobre:
 Projeto desenvolvido durante a semana Next Level Week, durante 03 a 09 de Agosto/2020 realizada pela @RocketSeat
 
-O projeto visa uma aplicação que encontra professores para alunos que desejam aprender. Nesta aplicação pode-se encontrar alunos para lecionar para eles, e professores para a materia em que voce deseja aprender.
+Nesta aplicação pode-se encontrar alunos para lecionar para eles, e professores para a materia em que voce deseja aprender.
 
 # Tecnologias Usadas
 O projeto está desenvolvido utilizando as seguintes tecnologias:
