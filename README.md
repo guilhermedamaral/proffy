@@ -21,7 +21,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 Como executar o projeto
 
 - Clonar o repositório
-git clone https://github.com/guilhermedamaral/proffy-discovery
+git clone https://github.com/guilhermedamaral/proffy
 
 - Entrar no diretório
 cd proffy-discovery
